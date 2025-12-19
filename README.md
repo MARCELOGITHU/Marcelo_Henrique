@@ -13,7 +13,9 @@
 - 🔗 [Outro Projeto](link)
 
 ### 📊 GitHub Stats
-(imagens aqui)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MARCELOGITHU&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MARCELOGITHU&layout=compact&theme=dark)
+
 
 ### 📫 Onde me encontrar
 - LinkedIn: 
