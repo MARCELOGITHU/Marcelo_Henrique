@@ -1,1 +1,20 @@
-<h1 align="center" font-size="50px"> Eae, sou Henrique, Marcelo Henrique <br> </h1>
+## 👋 Olá, eu sou Marcelo Henrique
+
+💻 Desenvolvedor [backend]  
+📍 [Ceará/Brasil]  
+🚀 Apaixonado por tecnologia e aprendizado contínuo
+
+### 🧠 Tecnologias
+- Java
+- Spring Boot
+
+### 📌 Projetos em destaque
+- 🔗 [Nome do Projeto](link) – breve descrição
+- 🔗 [Outro Projeto](link)
+
+### 📊 GitHub Stats
+(imagens aqui)
+
+### 📫 Onde me encontrar
+- LinkedIn: 
+- Portfólio:
