@@ -24,8 +24,7 @@
 ---
 
 ### 📌 Projetos
-🔧 Em construção...  
-Em breve, projetos práticos em Java para demonstrar minha evolução 🚀
+- bliblioteca de arquivos: https://github.com/MARCELOGITHU/ProjetoSemana5-biblioteca-de-arquivos
 
 ---
 
